@@ -1,0 +1,25 @@
+{
+  "name": "joset-devcamp-js-footer",
+  "version": "0.1.0",
+  "description": "this is my first module that will generate js applications with updated name and year",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rainpowers/joseT-devcamp-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Jose Tarula <crystalbluerain@gmail.com> (livingrains.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rainpowers/joseT-devcamp-js-footer/issues"
+  },
+  "homepage": "https://github.com/rainpowers/joseT-devcamp-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
